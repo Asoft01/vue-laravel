@@ -1,0 +1,4 @@
+npm install vue 
+npm install cross-env
+npm install --save  vue-axios
+npm install --save vue-router
